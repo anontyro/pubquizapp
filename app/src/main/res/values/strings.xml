@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PubQuizApplication</string>
+    <string name="mainactivity_play">Start Game</string>
+    <string name="mainactivity_create_question">Add A New Question</string>
+
+
+
+</resources>
